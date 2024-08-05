@@ -1,0 +1,46 @@
+#title,
+#newTitle{
+    border: none;
+}
+textarea{
+    display: block;
+    width: 100%;
+    border: none;
+}
+.form{
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 20px;
+}
+.edit-form{
+    padding: 20px;
+    border: 2px solid black; 
+}
+.posts{
+    overflow-y: scroll;
+    height: 460px;
+}
+.btn-primary{
+    background-color: rgb(0, 126, 126);
+}
+.post{
+    display: block;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    width: 100%;
+    background-color: rgb(0, 126, 126);
+    color: white;
+    position: relative;
+    bottom: -85px;
+}
+header{
+    background-color: rgb(0, 126, 126);
+    color: white;
+}
